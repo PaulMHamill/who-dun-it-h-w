@@ -1,0 +1,17 @@
+Episode 1: Miss Scarlet is the murderer as the scenario array is a constant.
+
+Episode 2: The murdere is proffessor Plum as "murderer" has been assigned as a constant variable out with the block.
+
+Episode 3: First verdit is Mrs Peacock as block scope is being utilised within the function when assisgning the murderer variable. the second verdict is Proffessor Plum as the variable murderer has been assigned outwith the block and the function is not being invoked.
+
+Episode 4: Mrs Peacock is supspect 3 as suspect 3 variable has been assigned to Mrs Peacock outwith the const function block.
+
+Episode 5: The weapon has been changed to a revolver as const does not prevent the modifying of contents of any mutatable objects, like arrays or objects. const only prevents reassignment to the variable.
+
+Episode 6: Mrs White is the murderer as the plotTwist() function is called at the end of the changemurderer() code block.
+
+Episode 7: Proffessor Plum
+
+Episode 8: Candel Stick
+
+Episode 9: the murder is proffessor plum as the murder variable has already been assigned outwith the if statement let block scope.
